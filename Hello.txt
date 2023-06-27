@@ -1,3 +1,9 @@
 Welcome to the for infinity and git 
 this is git.
+<<<<<<< HEAD
 Saving error.
+=======
+Updated hello.txt.
+Using git branch.
+>>>>>>> helloworld
+headtails and mew mew mew
